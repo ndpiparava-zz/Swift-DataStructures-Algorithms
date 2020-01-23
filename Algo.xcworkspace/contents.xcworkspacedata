@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Queue.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Stack.playground">
+   </FileRef>
+   <FileRef
+      location = "group:CircularDoubleLinkedList.playground">
+   </FileRef>
+   <FileRef
+      location = "group:DoubleLinkedList.playground">
+   </FileRef>
+   <FileRef
+      location = "group:SingleCircularLinkedlIst.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/npiparav/HD/Ndpiparava-GIT/AlgorithmsInSwift/SingleLinkedistInsert.playground">
+   </FileRef>
+   <FileRef
+      location = "group:BinarySearch.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Fibonacci.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Factorial.playground">
+   </FileRef>
+   <FileRef
+      location = "group:BinaryGap.playground">
+   </FileRef>
+   <FileRef
+      location = "group:CyclicRotation.playground">
+   </FileRef>
+</Workspace>
